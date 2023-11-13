@@ -1,13 +1,4 @@
 
-/******************************************************************
-* CS21 - Java Programming
-* Author: Alex Soto
-* Assignment: Project 2
-* Instructor: Prof. Kyle Muldrow
-*
-* Name of class: replace with actual name of class
-*******************************************************************
-*/
 
 import java.util.Scanner;
 public class projectTwo
